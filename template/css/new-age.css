@@ -44,7 +44,7 @@ p {
   margin-bottom: 20px; }
 
 section {
-  padding: 100px 0; }
+  padding: 50px 0; }
   section h2 {
     font-size: 50px; }
 
@@ -169,7 +169,7 @@ section.download {
       font-size: 70px; } }
 
 section.features .section-heading {
-  margin-bottom: 100px; }
+  margin-bottom: 25px; }
   section.features .section-heading h2 {
     margin-top: 0; }
   section.features .section-heading p {
@@ -187,8 +187,8 @@ section.features .device-container {
       margin-bottom: 0; } }
 
 section.features .feature-item {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   text-align: center; }
   section.features .feature-item h3 {
     font-size: 30px; }
