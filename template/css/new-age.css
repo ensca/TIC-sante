@@ -146,6 +146,9 @@ header.masthead {
       header.masthead .device-container {
         max-width: 325px; } }
 
+section.chiffres {
+text-align: center;}		
+		
 section.download {
   position: relative;
   padding: 150px 0; }
