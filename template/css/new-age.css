@@ -12,7 +12,7 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
 
 a {
-  color: #fdcc52;
+  color: #417D7F;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
@@ -36,6 +36,9 @@ h6 {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px; }
+  
+h3 {
+  margin-top:10px;}
 
 p {
   font-size: 18px;
@@ -147,7 +150,10 @@ header.masthead {
         max-width: 325px; } }
 
 section.chiffres {
-text-align: center;}		
+text-align: center;
+margin-bottom: 30px;}
+
+	
 		
 section.download {
   position: relative;
@@ -330,3 +336,12 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px; }
+
+  
+.imagesAstuces{
+margin-top:20px;
+margin-bottom:10px;}
+
+.imagesAstuces h5{
+margin-top:30px;
+margin-bottom:10px;}
