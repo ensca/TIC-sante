@@ -65,7 +65,7 @@ section {
     font-weight: 200;
     letter-spacing: 1px; }
     #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-      color: #A83567; }
+      color: #696969; } 
   #mainNav .navbar-toggler {
     font-size: 12px;
     padding: 8px 10px;
@@ -77,7 +77,7 @@ section {
     text-transform: uppercase; 
 	color: #white; }
     #mainNav .navbar-nav > li > a.active {
-      color: #A83567 !important;
+      color: #696969 !important;
       background-color: transparent; }
       #mainNav .navbar-nav > li > a.active:hover {
         background-color: transparent; }
@@ -212,7 +212,7 @@ section.features #feature-item {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: #A83567;
+    background: #7F3800;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 section.features #feature-item:hover {
@@ -325,11 +325,11 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   padding-left: 0; }
 
 .btn-outline {
-  color: white;
+  color: black;
   border: 1px solid;
-  border-color: white; }
+  border-color: black; }
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
-    color: white;
+    color: black;
     border-color: #fdcc52;
     background-color: #fdcc52; }
 
