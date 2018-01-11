@@ -19,10 +19,11 @@ a {
  
 
 hr {
-  max-width: 100px;
+  max-width: 200px;
   margin: 25px auto 0;
+  margin-top: 45px;
   border-width: 1px;
-  border-color: rgba(34, 34, 34, 0.1); }
+  border-color: #808080; }
 
 hr.light {
   border-color: white; }
@@ -49,6 +50,10 @@ section {
   padding: 30px 0; }
   section h2 {
     font-size: 40px; }
+
+.espace {
+	margin-top : 70px;
+}
 	
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
