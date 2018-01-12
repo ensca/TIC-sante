@@ -223,7 +223,7 @@ section.features #feature-item {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: #EB4D2B;
+    background: #A3200A;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 section.features #feature-item:hover {
@@ -331,9 +331,9 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #EB4D2B;
-  background: -webkit-linear-gradient(#EB4D2B, #EB4D2B);
-  background: linear-gradient(#EB4D2B, #EB4D2B);  }
+  background: #A3200A;
+  background: -webkit-linear-gradient(#A3200A, #A3200A);
+  background: linear-gradient(#A3200A, #A3200A);  }
 
 .bg-primaryBis {
   background: #4B4B4B;
@@ -354,8 +354,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
   padding: 10px;}
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     color: white;
-    border-color: #EB4D2B;
-    background-color: #EB4D2B; }
+    border-color: #A3200A;
+    background-color: #A3200A; }
 
 .btn {
   border-radius: 300px;
