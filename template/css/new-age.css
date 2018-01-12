@@ -223,7 +223,7 @@ section.features #feature-item {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: #6A3E7D;
+    background: #EB4D2B;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 section.features #feature-item:hover {
@@ -331,12 +331,13 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #6A3E7D;/*Jaune : #fdcc52*/
-  background: -webkit-linear-gradient(#6A3E7D, #6A3E7D);
-  background: linear-gradient(#6A3E7D, #6A3E7D);  }
+  background: #EB4D2B;
+  background: -webkit-linear-gradient(#EB4D2B, #EB4D2B);
+  background: linear-gradient(#EB4D2B, #EB4D2B);  }
 
 .bg-primaryBis {
-  background: #fdcc52;}/*Jaune pâle : #fde29e*/
+  background: #4B4B4B;
+  color: white;}
   
 .text-primary {
   color: #fdcc52; }
